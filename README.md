@@ -19,7 +19,8 @@ The system allows users to add, update, and view items, generate bills, and main
    git clone https://github.com/sohamsonar427/RestaurentBillMS.git
 
 2. **Install Dependencies:**
-``` pip install pymysql
+   ```bash
+   pip install pymysql
 
 ## Usage
 1. Setup The SQL server:
