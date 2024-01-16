@@ -16,10 +16,10 @@ The system allows users to add, update, and view items, generate bills, and main
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/sohamsonar427/RestaurentBillMS.git ```
+   git clone https://github.com/sohamsonar427/RestaurentBillMS.git
 
 2. **Install Dependencies:**
-``` pip install pymysql ```
+``` pip install pymysql
 
 ## Usage
 1. Setup The SQL server:
@@ -34,8 +34,8 @@ authentication is required so make sure you have entered the password everywhere
 
 3. Running the application:
 After the database server setup and Python file setup run the file.
-``` # Execute the main Python script
-python main.py ```
+```
+python main.py
 
 4. Login:
 Use the admin credentials to log in.(from the sql file)
