@@ -23,6 +23,7 @@ The system allows users to add, update, and view items, generate bills, and main
    pip install pymysql
 
 ## Usage
+
 1. Setup The SQL server:
 You can use any workbench or database server, here I have used the MySQL server and Workbench v8.1.
 Once installed Setup up the database server and setup a password for the host login, and run the SQL script on the server and connect it with the python file.
@@ -35,8 +36,8 @@ authentication is required so make sure you have entered the password everywhere
 
 3. Running the application:
 After the database server setup and Python file setup run the file.
-```
-python main.py
+   ```bash
+   python main.py
 
 4. Login:
 Use the admin credentials to log in.(from the sql file)
