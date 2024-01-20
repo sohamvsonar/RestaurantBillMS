@@ -16,7 +16,7 @@ The system allows users to add, update, and view items, generate bills, and main
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/sohamsonar427/RestaurentBillMS.git
+   git clone https://github.com/sohamvsonar/RestaurantBillMS.git
 
 2. **Install Dependencies:**
    ```bash
