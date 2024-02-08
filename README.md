@@ -63,5 +63,3 @@ Navigate to the "Show Bills" section to view all generated bills.
 * Tkinter (GUI)
 * MySQL (Database)
 
-## License
-This project is licensed under the MIT License.
