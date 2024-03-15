@@ -31,8 +31,8 @@ If you want to make any changes in backend you can directly change or alter the 
 
 2. Setting up the Python file:
 First in the python file here ' conn = pymysql.connect(host="localhost", user="root", passwd="", db="billservice") '
-Enter the password in the passwd field that you used to set up the database server using the host login. (Remember there are lot of code lines where 
-authentication is required so make sure you have entered the password everywhere)
+Enter the password in the passwd field that you used to set up the database server using the host login (Remember there are lot of code lines where 
+authentication is required so make sure you have entered the password everywhere).
 
 3. Running the application:
 After the database server setup and Python file setup run the file.
